@@ -1,5 +1,4 @@
-# sistemaUniversitario
-Sistema de Gerenciamento Universitario
+# Sistema de Gerenciamento Universitario
 
 # Alunos participantes do Projeto:
 
