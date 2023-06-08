@@ -15,8 +15,7 @@ Sistema de Gerenciamento Universitario
       
  # Usuários que já foram criados para utilizar os sistema
             
-  # Administrador: admin Senha: admin
-  ( Cadastrar os Alunos, Professores, Turma, Disciplina, etc... )
+  # Administrador: admin Senha: admin        ( Cadastrar os Alunos, Professores, Turma, Disciplina, etc... )
   
   
   Professor: 55555 Senha: 123456
