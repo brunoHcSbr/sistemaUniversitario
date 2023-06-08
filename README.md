@@ -9,9 +9,9 @@ Sistema de Gerenciamento Universitario
 
 
 
-      O sistema não possui gerenciamento de usuários, devido a isso os usuários "Professor", "Administrador" e "Aluno" devem ser inseridos via Banco de dados;
+   # O sistema não possui gerenciamento de usuários, devido a isso os usuários "Professor", "Administrador" e "Aluno" devem ser inseridos via Banco de dados;
       
-      Foi adicinado um script SQL para criação do banco de dados e as informações de suas respectivas tabelas;
+   Foi adicinado um script SQL para criação do banco de dados e as informações de suas respectivas tabelas;
       
  # Usuários que já foram criados para utilizar os sistema
             
