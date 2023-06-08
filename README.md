@@ -3,7 +3,7 @@ Sistema de Gerenciamento Universitario
 
 Alunos participantes do Projeto:
 
-  Bruno Henrique Correia da Silva, Matheus Henrique , Lorena Frigério Oka
+# Bruno Henrique Correia da Silva, Matheus Henrique , Lorena Frigério Oka
 
 
 
@@ -13,8 +13,8 @@ Alunos participantes do Projeto:
       
  # Usuários que já foram criados para utilizar os sistema
             
-  # Administrador: admin Senha: admin
-  # Professor: 55555 Senha: 123456
-  # Aluno: 1050482213006 Senha: 123456
+  # Administrador: admin Senha: admin ( Cadastrar os Alunos, Professores, Turma, Disciplina, etc... )
+   Professor: 55555 Senha: 123456
+  Aluno: 1050482213006 Senha: 123456
             
    # Utilizar os usuários acima para realizar o teste do sistema;
