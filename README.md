@@ -1,9 +1,11 @@
 # sistemaUniversitario
 Sistema de Gerenciamento Universitario
 
-Alunos participantes do Projeto:
+# Alunos participantes do Projeto:
 
-# Bruno Henrique Correia da Silva, Matheus Henrique , Lorena Frigério Oka
+# Bruno Henrique Correia da Silva, 
+# Matheus Henrique , 
+# Lorena Frigério Oka
 
 
 
